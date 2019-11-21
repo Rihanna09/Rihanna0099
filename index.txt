@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC “-//W3C//DTD HTML 4.0 Transitional//EN”>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=cp1251" />
+<title>FEND | NEW COLLECTION</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="Container">
+  <div id="header">
+    <ul>
+      <li><a href="#">Home Page</a></li>
+      <li><a href="#">Our Services</a></li>
+      <li><a href="#">Gallery</a></li>
+      <li><a href="#">Site Map</a></li>
+      <li><a href="#">News</a></li>
+      <li><a href="#">FAQ</a></li>
+    </ul>
+  </div>
+  
+  <div id="right">
+    <div class="post">
+			<h1>FENDI</h1>
+			<p class="descr"><small>Íàø áðåíä Fendi âûïóñêàåò êàïñóëüíóþ êîëëåêöèþ «Fendi Prints On», ñîçäàííóþ â ñîòðóäíè÷åñòâå ñ ðýïåðøåé <a href="#">Íèêè Ìèíàæ.</a></small></p> 		
+			<p>Â êîëëåêöèþ âîøëè âåùè ñ ëîãîòèïàìè è áëåñòÿùèìè òåêñòóðàìè, â òîì ÷èñëå äâóñòîðîííèå äóòûå êóðòêè, íåéëîíîâûå ïàðêè, áîìáåðû è ïëàòüÿ ñ ïàéåòêàìè.</p>
+			    <p>Îòñûëêè ê êóëüòóðå õèï-õîïà ìîæíî óâèäåòü â ñåðåáðèñòîì òðåíèðîâî÷íîì êîñòþìå, ôóòáîëêàõ è ñâèòøîòàõ. Òàêæå â êàïñóëå åñòü áîäè, êóïàëüíèêè è êðîññîâêè íà ïëàôòîðìå.<br />
+                <br />
+			     Êðîìå òîãî, Íèêè Ìèíàæ âûïóñêàåò ñâîþ âåðñèþ ñóìîê:<br />
+			      -  Peekaboo.<br />
+			      - Baguette.<br />
+			      -  Kan U.<br />
+			   
+ 			    
+	</div>
+		<div class="post">
+			<h2>Ïðèìå÷àòåëüíî:</h2>
+			<p>Êîëëåêöèÿ FENDI Prints On óæå äîñòóïíà íà ñàéòå fendi.com</p>
+		  <ul>
+					<li><a href="#">Ñ 16 îêòÿáðÿ îíà ïîÿâèòñÿ â 52 áóòèêàõ Fendi ïî âñåìó ìèðó;</a></li>
+					<li><a href="#">Êîëëåêöèÿ âêëþ÷àåò â ñåáÿ 127 ïðåäìåòîâ îäåæäû: îáóâü, êóïàëüíûå êîñòþìû è ñóìêè.  Äèçàéí òàêæå ñîäåðæèò êóëüòîâûé äâîéíîé ëîãîòèï F;</a></li>
+					<li><a href="#">Ëèíåéêà ïðåäñòàâëåíà ??ìíîæåñòâîì ðàçëè÷íûõ òåêñòóð è òêàíåé, â òîì ÷èñëå áëåñòêàìè, âûøèâêîé, íåéëîíîâîé îðãàíçîé, îâ÷èíîé, íîðêîé, êîæåé è ìíîãèì äðóãèì, à ñåðåáðèñòûé è ÿðêî-ðîçîâûé ñîñòàâëÿþò áîëüøóþ ÷àñòü ñâîåé öâåòîâîé ïàëèòðû;</a></li>
+					<li><a href="#">Äèçàéí òàêæå ñîäåðæèò êóëüòîâûé äâîéíîé ëîãîòèï F.</a></li>
+		  </ul>
+		</div>		
+  </div>
+  <div id="left">    	
+		<div id="updates" class="boxed">
+			<h2 class="title">Company News </h2>
+			<div class="content2">
+				<ul>
+					<li>
+						<h3>June 23, 2008</h3>
+						<p><a href="#">Tempus in, lacus. Duis tempor posuere diam. Suspendisse vel tellus quis nunc malesuada porta. &#8230;</a></p>
+					</li>
+					<li>
+						<h3>March 4, 2008</h3>
+						<p><a href="#">Nulla id magna sed dolor sollicitudin laoreet. tempus in, lacus. Duis tempor posuere diam&#8230;</a></p>
+					</li>
+					<li>
+						<h3>February 18, 2008</h3>
+						<p><a href="#">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. &#8230;</a></p>
+					</li>
+					<li>
+						<h3>February 12, 2008</h3>
+						<p><a href="#"> Sed dolor sollicitudin laoreet. tempus in, lacus. Duis tempor posuere diam. Suspendisse </a></p>
+					</li>
+					<li>
+						<h3>February 1, 2008</h3>
+						<p><a href="#">Ipsum dolor sit amet, consectetuer adipiscing elit. In nec &#8230;</a></p>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+ </div>
+  <div id="footer">
+    <p>Copyright &copy; 2008. Design by <a href="http://www.metamorphozis.com/" title="Free Web Templates">Free Web Templates</a></p>
+		<p><a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a> | <a href="http://validator.w3.org/check/referer" title="This page validates as XHTML 1.0 Transitional"><abbr title="eXtensible HyperText Markup Language">XHTML</abbr></a> | <a href="http://jigsaw.w3.org/css-validator/check/referer" title="This page validates as CSS"><abbr title="Cascading Style Sheets">CSS</abbr></a></p>
+  </div>
+
+</body>
+</html>
